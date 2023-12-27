@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dynamo89247@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Programming humor, debugging life daily.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
