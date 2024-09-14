@@ -1,4 +1,3 @@
-[![MasterHead](https://www.neit.edu/wp-content/uploads/2022/10/Cyber-Security-Icon-Concept-2-1.jpeg)]
 <h1 align="center">Hi 👋, I'm Uzair Ahmad</h1>
 <h3 align="center">A passionate Cyber Security Student from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
