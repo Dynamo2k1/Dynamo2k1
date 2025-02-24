@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Siem Solution](https://github.com/Dynamo2k1/CyberGuard_agent)
 
-- 🌱 I’m currently learning **Ethical Hacking, Pentesting, Reversing, Forensics, Web Security**
+- 🌱 I’m currently learning **Ethical Hacking, Pentesting, Reversing, Forensics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dynamo2k1/Portfolio](https://github.com/Dynamo2k1/Portfolio)
 
