@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking, Pentesting, Reversing, Forensics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dynamo2k1/Portfolio](https://github.com/Dynamo2k1/Portfolio)
+- 👨‍💻 All of my projects are available at [Dynamo2k1](https://dynamo2k1.github.io)
 
 - 💬 Ask me about **Kali Linux, Sports, Programming, Siem**
 
