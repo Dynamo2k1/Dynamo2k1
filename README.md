@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dynamo89247@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rana-uzair-82b8b6223/](https://www.linkedin.com/in/rana-uzair-82b8b6223/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rana-uzair-82b8b6223/](https://www.linkedin.com/in/rana-uzair-ahmad-82b8b6223/)
 
 - ⚡ Fun fact **Programming humor, debugging life daily.**
 
