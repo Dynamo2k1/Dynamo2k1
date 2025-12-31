@@ -106,18 +106,9 @@ I am a **Security Engineer at Zerox Innovation** with a strong academic foundati
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[CortexCLI](https://github.com/Dynamo2k1/CortexCLI)** | An intelligent Linux shell that integrates Large Language Models to revolutionize command-line interactions and workflow automation. | Python, Bash, AI/LLM |
-| **FEAS (Forensic Evidence Acquisition System)** | A specialized system designed for the automated and secure preservation of digital forensic evidence. | Python, Digital Forensics |
+| **[FEAS (Forensic Evidence Acquisition System)](https://github.com/Dynamo2k1/FEAS)** | A specialized system designed for the automated and secure preservation of digital forensic evidence. | Python, Digital Forensics |
 | **Enterprise SOC Lab** | A comprehensive Security Operations Center environment built for real-time threat monitoring and incident response. | Wazuh, Suricata, ELK, Networking |
-| **Parallel Computing Cracker** | A distributed system utilizing cluster computing for high-performance password cracking tasks. | MPI, CUDA, C++ |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dynamo2k1&show_icons=true&theme=highcontrast&title_color=38e099&icon_color=f2ff00" alt="Dynamo2k1's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dynamo2k1&theme=highcontrast&title_color=38e099&layout=compact" alt="Top Languages" height="170" />
-</p>
+| **[ParallelFlow](https://github.com/Dynamo2k1/ParallelFlow)** | A distributed system utilizing cluster computing for high-performance pcap analysis. | MPI, C++ |
 
 ---
 
