@@ -28,76 +28,85 @@ I am a **Security Engineer at Zerox Innovation** with a strong academic foundati
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Core Expertise
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-      <br />C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" />
-      <br />Go
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <br />Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="Bash" />
-      <br />Bash
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-      <br />Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-      <br />Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="ELK Stack" />
-      <br />ELK Stack
-    </td>
-    <td align="center" width="96">
-      <a href="https://wazuh.com" target="_blank"><img src="https://raw.githubusercontent.com/wazuh/wazuh-documentation/4.7/src/images/wazuh_logo.png" width="100" height="auto" alt="Wazuh" /></a>
-      <br />Wazuh
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-      <br />MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <br />MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-      <br />Git
-    </td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-    <td align="center" width="96"></td>
-  </tr>
-</table>
+### 🔴 Offensive Security
+![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-Expert-black?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API%20Security-Advanced-black?style=for-the-badge)
+![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-Advanced-black?style=for-the-badge)
+![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-Advanced-black?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-black?style=for-the-badge)
+![VAPT](https://img.shields.io/badge/VAPT-Advanced-black?style=for-the-badge)
+![Exploitation](https://img.shields.io/badge/Exploitation-Advanced-black?style=for-the-badge)
+![Post Exploitation](https://img.shields.io/badge/Post--Exploitation-Advanced-black?style=for-the-badge)
+
+**Capabilities:**
+- Web, API & Mobile application penetration testing
+- Manual & automated vulnerability assessment
+- Authentication & authorization bypass testing
+- Network exploitation & lateral movement
+- Red Team–style attack simulation & reporting
+
+---
+
+### 🔵 Defensive Security
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh-black?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC%20Operations-Advanced-black?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-black?style=for-the-badge)
+![pfSense](https://img.shields.io/badge/pfSense-Firewall-black?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK%20Stack-Advanced-black?style=for-the-badge)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-Advanced-black?style=for-the-badge)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Advanced-black?style=for-the-badge)
+
+**Capabilities:**
+- SIEM deployment, tuning & log correlation (Wazuh)
+- Network traffic inspection & IDS/IPS rule tuning (Suricata)
+- Firewall policy design & segmentation (pfSense)
+- SOC workflows, alert triage & escalation
+- Incident response & threat hunting operations
+
+## 📊 Skill Statistics
+
+### 🧪 Security Domains
+![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-90%25-111111?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API%20Security-88%25-111111?style=for-the-badge)
+![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-85%25-111111?style=for-the-badge)
+![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-80%25-111111?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-92%25-111111?style=for-the-badge)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-111111?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
+
+---
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-222222?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-78%25-222222?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-75%25-222222?style=for-the-badge&logo=react)
+![C](https://img.shields.io/badge/C-80%25-222222?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C%2B%2B-78%25-222222?style=for-the-badge&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-75%25-222222?style=for-the-badge&logo=docker)
+
+---
+
+## ⚙️ Programming & Scripting
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS"/>
+</p>
+
 
 ---
 
