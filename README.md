@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rana-uzair-ahmad-82b8b6223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dynamo2k1.github.io"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://dynamo2k1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:dynamo89247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
