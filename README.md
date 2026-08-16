@@ -1,135 +1,174 @@
+<div align="center">
+
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-  I'm Rana Uzair Ahmad
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px" style="vertical-align: middle;" />
+  <span>Rana Uzair Ahmad</span>
 </h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rana-uzair-ahmad-82b8b6223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dynamo2k1.vercel.app"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:dynamo89247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<h3 align="center">🚀 Security Engineer | Cyber Security Specialist | AI Integrator</h3>
+### `Cybersecurity Engineer` · `Penetration Tester` · `DevSecOps Specialist` · `AI Integrator`
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38E099&center=true&vCenter=true&width=435&lines=Pentesting+%26+Ethical+Hacking;Digital+Forensics+%26+Reversing;SOC+Operations+%26+SIEM;AI+Integrated+Systems" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I am a **Security Engineer at Zerox Innovation** with a strong academic foundation in **Cyber Security from Air University**. I specialize in the convergence of offensive & defensive security, digital forensics, and artificial intelligence. My work focuses on building resilient systems, conducting in-depth security analysis, and developing next-generation tools that leverage the power of AI for security applications.
-
-- 🧪 **Digital Forensics:** Expertise in developing automated evidence acquisition systems like **FEAS** and integrating LLMs with forensic tools (e.g., Autopsy, Ollama) for enhanced analysis.
-- 🛡️ **SOC & SIEM:** Proven experience in deploying, configuring, and managing enterprise-grade SOC environments using **Wazuh, Suricata, and the ELK Stack** for threat detection and incident response.
-- 🧠 **Advanced Computing:** Skilled in utilizing parallel computing techniques (MPI, CUDA) for high-performance security tasks such as distributed password cracking.
-- 🚩 **CTF Competitor:** Active participant in cybersecurity capture-the-flag competitions.
-
----
-
-## 🛠️ Core Expertise
-
-### 🔴 Offensive Security
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-Expert-black?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API%20Security-Advanced-black?style=for-the-badge)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-Advanced-black?style=for-the-badge)
-![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-Advanced-black?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-black?style=for-the-badge)
-![VAPT](https://img.shields.io/badge/VAPT-Advanced-black?style=for-the-badge)
-![Exploitation](https://img.shields.io/badge/Exploitation-Advanced-black?style=for-the-badge)
-![Post Exploitation](https://img.shields.io/badge/Post--Exploitation-Advanced-black?style=for-the-badge)
-
-**Capabilities:**
-- Web, API & Mobile application penetration testing
-- Manual & automated vulnerability assessment
-- Authentication & authorization bypass testing
-- Network exploitation & lateral movement
-- Red Team–style attack simulation & reporting
-
----
-
-### 🔵 Defensive Security
-![SIEM](https://img.shields.io/badge/SIEM-Wazuh-black?style=for-the-badge)
-![SOC](https://img.shields.io/badge/SOC%20Operations-Advanced-black?style=for-the-badge)
-![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-black?style=for-the-badge)
-![pfSense](https://img.shields.io/badge/pfSense-Firewall-black?style=for-the-badge)
-![ELK](https://img.shields.io/badge/ELK%20Stack-Advanced-black?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident%20Response-Advanced-black?style=for-the-badge)
-![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Advanced-black?style=for-the-badge)
-
-**Capabilities:**
-- SIEM deployment, tuning & log correlation (Wazuh)
-- Network traffic inspection & IDS/IPS rule tuning (Suricata)
-- Firewall policy design & segmentation (pfSense)
-- SOC workflows, alert triage & escalation
-- Incident response & threat hunting operations
-
-## 📊 Skill Statistics
-
-### 🧪 Security Domains
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-90%25-111111?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API%20Security-88%25-111111?style=for-the-badge)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-85%25-111111?style=for-the-badge)
-![Mobile Pentesting](https://img.shields.io/badge/Mobile%20Pentesting-80%25-111111?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-92%25-111111?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-111111?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
-
----
-
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-222222?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-78%25-222222?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-75%25-222222?style=for-the-badge&logo=react)
-![C](https://img.shields.io/badge/C-80%25-222222?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C%2B%2B-78%25-222222?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-75%25-222222?style=for-the-badge&logo=docker)
-
----
-
-## ⚙️ Programming & Scripting
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS"/>
-</p>
-
-
----
-
-### 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[CortexCLI](https://github.com/Dynamo2k1/CortexCLI)** | An intelligent Linux shell that integrates Large Language Models to revolutionize command-line interactions and workflow automation. | Python, Bash, AI/LLM |
-| **[FEAS (Forensic Evidence Acquisition System)](https://github.com/Dynamo2k1/FEAS)** | A specialized system designed for the automated and secure preservation of digital forensic evidence. | Python, Digital Forensics |
-| **Enterprise SOC Lab** | A comprehensive Security Operations Center environment built for real-time threat monitoring and incident response. | Wazuh, Suricata, ELK, Networking |
-| **[ParallelFlow](https://github.com/Dynamo2k1/ParallelFlow)** | A distributed system utilizing cluster computing for high-performance pcap analysis. | MPI, C++ |
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/rana-uzair-ahmad-82b8b6223/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fb.com/uzair.ge.56"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/ra.na_uzair_ahmad/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://ko-fi.com/dynamo2k1"><img src="https://img.shields.io/badge/Support_Me-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white" /></a>
+  <a href="https://dynamo2k1.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-00FF9D?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rana-uzair-ahmad-82b8b6223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/Dynamo2k1"><img src="https://img.shields.io/badge/TryHackMe-Top_3%25-FF4757?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://dynamo2k1.vercel.app/Rana_Uzair_Ahmad_Resume.pdf"><img src="https://img.shields.io/badge/ATS_Resume-PDF-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:ranauzair370@gmail.com"><img src="https://img.shields.io/badge/Email-ranauzair370%40gmail.com-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <i>"Debugging is like being the detective in a crime movie where you are also the murderer."</i> 🕵️‍♂️
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=Offensive+Security+%26+Red+Team+Operations;Web%2C+API+%26+Infrastructure+VAPT;Wazuh+SIEM+%26+SOC+Threat+Hunting;DevSecOps+Gates+%26+CI%2FCD+Pipeline+Hardening;Low-Level+Forensics+%26+C%2FRust+Security+Agents;AI-Integrated+Security+Tooling" alt="Typing SVG" />
 </p>
+
+</div>
+
+```ini
+[ SYSTEM_TELEMETRY // OPERATIONAL_STATUS ]
+● CURRENT_ROLE     : Cybersecurity Engineer & Penetration Tester @ ZeroxInnovation
+● PRIOR_ENGAGEMENT : Digital Forensics & Security Engineer @ National Center of Cyber Security (NCCS)
+● ACADEMIC_BASE    : BS Cybersecurity — Air University Islamabad
+● GLOBAL_STANDINGS : TryHackMe Top 3% Globally · HackTheBox Top 900 (Level 48) · 17 Verified Certifications
+● SECURITY_ARSENAL : 34+ Public Repositories (Python, C, Rust, x86 Assembly, Bash)
+● WORK_ELIGIBILITY : 100% Remote Worldwide (W-8BEN / B2B) · Open to Relocation with Visa Sponsorship
+```
+
+---
+
+## 👨‍💻 Professional Profile & Impact
+
+I am a **Cybersecurity Engineer, Penetration Tester, and DevSecOps Practitioner** with **3+ years of hands-on experience** spanning offensive security, infrastructure defense, digital forensics, and security tool development. My work bridges the gap between deep offensive tradecraft and production-grade defensive engineering.
+
+- 🛡️ **Offensive VAPT & Red Teaming:** Lead full-scope Web (OWASP Top 10), REST/GraphQL API, and Network penetration testing at **ZeroxInnovation**, authoring custom exploit automation and CVSS risk-scored remediation roadmaps for enterprise clients.
+- 🔬 **Government Lab Forensics & SIEM:** Engineered `CyberGuard_agent` (a high-performance C daemon with Linux `inotify` file integrity monitoring) and operated enterprise SIEM environments (**Wazuh, Splunk Enterprise, ELK**) at the **National Center of Cyber Security (NCCS)**.
+- ☁️ **DevSecOps & Cloud Hardening:** Design automated CI/CD security gates (SAST/SCA/DAST via Semgrep, Trivy, TruffleHog), Kubernetes admission controllers, Terraform state locking, and container runtime threat detection (Falco eBPF).
+- 🧠 **AI & Systems Tooling:** Build next-generation security agents integrating local LLM reasoning (Ollama, SmolLM2, LLaMA 3.3) into terminal security scanners and automated forensic evidence acquisition pipelines.
+
+---
+
+## 🛠️ Curated Security Arsenal & Key Projects (34+ Repositories)
+
+<div align="center">
+
+| Project | Domain | Architecture / Tech | Key Capabilities |
+| :--- | :--- | :--- | :--- |
+| [**NetSnoop**](https://github.com/Dynamo2k1/NetSnoop) | `Offensive / Network` | `Python` `Scapy` `BPF` | High-speed packet dissector with real-time protocol sniffing, BPF filters, and PCAP forensics. |
+| [**CyberGuard_Agent**](https://github.com/Dynamo2k1/CyberGuard-Agent) | `Defensive / SIEM` | `C` `Linux inotify` `POSIX` | Real-time File Integrity Monitoring (FIM) daemon engineered for NCCS cyber forensics lab. |
+| [**SSHield**](https://github.com/Dynamo2k1/SSHield) | `Host Defense` | `Bash` `Python` `iptables` | Automated Linux SSH hardening, automated brute-force IP banning, and session telemetry. |
+| [**CortexCLI**](https://github.com/Dynamo2k1/CortexCLI) | `AI / Scanner` | `C` `Python` `REST API` | Lightweight terminal-based security auditor and AI-assisted vulnerability triage engine. |
+| [**VortexTunnel**](https://github.com/Dynamo2k1/VortexTunnel) | `Pivoting / Proxies` | `Python` `AsyncIO` `SOCKS5` | Multi-mode SSH forwarding & dynamic SOCKS5 proxy engine for red-team lateral movement. |
+| [**FastTex**](https://github.com/Dynamo2k1/FastTex) | `Systems / Tokenizer` | `Rust` `SIMD AVX2` `Rayon` | Vectorized text tokenizer delivering **48.2 GB/s** memory-safe processing throughput. |
+| [**FEAS**](https://github.com/Dynamo2k1/FEAS) | `Forensics / Analytics` | `Python` `Crypto` `FastAPI` | Cryptographic forensic evidence acquisition system with zero-knowledge verification. |
+| [**RCMS**](https://github.com/Dynamo2k1/RCMS) | `C2 / Remote Mgmt` | `Python` `mTLS 1.3` `Sockets` | Secure remote infrastructure management platform with mutual TLS encryption. |
+| [**ParallelFlow**](https://github.com/Dynamo2k1/ParallelFlow) | `HPC Forensics` | `C++` `MPI` `OpenMP` | Distributed cluster computing pipeline for high-performance PCAP and threat log analytics. |
+
+</div>
+
+---
+
+## ⚡ Technical Capabilities & Tools
+
+<div align="center">
+
+### 🔴 Offensive Security & Penetration Testing
+```
+Web & API VAPT · Network Exploitation · Active Directory Attacks · Binary Reverse Engineering
+Burp Suite Pro · Metasploit · Nmap · SQLmap · BloodHound · Impacket · Ghidra · x64dbg · Wireshark
+```
+
+### 🔵 Defensive Security, SOC & SIEM
+```
+Wazuh SIEM · Splunk Enterprise · Elasticsearch · Suricata IDS/IPS · pfSense Firewall
+Windows Sysmon · Sigma Detection Rules · Linux inotify FIM · Memory Forensics · Volatility
+```
+
+### ☁️ DevSecOps & Cloud Defense
+```
+GitHub Actions CI/CD · Docker Hardening · Kubernetes RBAC & Calico · Terraform IaC Security
+AWS Cloud Defense · Trivy · Semgrep SAST · TruffleHog Secret Scanning · Falco eBPF
+```
+
+<br/>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="40" height="40" title="Rust"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" title="Bash"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" title="Kubernetes"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" title="Terraform"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" title="AWS"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="SQL"/>
+</p>
+
+</div>
+
+---
+
+## 📜 Verified Industry Certifications (17)
+
+```yaml
+Certifications_Registry:
+  - credential: "CompTIA PenTest+ (PT0-002)"
+    issuer: "CompTIA / Coursera Preparation Track"
+    focus: "Scoping, Vulnerability Scanning, Exploit Execution, & Reporting"
+  - credential: "Certified Cybersecurity Educator Professional (CCEP)"
+    issuer: "Red Team Leaders"
+    focus: "Adversary Emulation, Offensive Red Teaming, & Tactical Defense"
+  - credential: "CSI Linux Certified Investigator (CSIL-CI)"
+    issuer: "CSI Linux Academy"
+    focus: "OSINT, Digital Forensics, Disk Imaging, & Memory Analysis"
+  - credential: "Cyber Threat Intelligence 101"
+    issuer: "arcX"
+    focus: "Threat Actor Attribution, Diamond Model, & MITRE ATT&CK Mapping"
+  - credential: "Reverse Engineering & Malware Analysis (REMASM+)"
+    issuer: "REMASM"
+    focus: "x86 Assembly, Ghidra Decompilation, & Dynamic Debugging"
+  - credential: "Cisco CCNA Fundamentals"
+    issuer: "Cisco Systems"
+    focus: "TCP/IP Architecture, Routing/Switching, VLANs, & Access Control"
+  - credential: "The Ultimate Wireshark Packet Analysis"
+    issuer: "Network Security Lab"
+    focus: "Deep Packet Inspection, Malware Beacon Hunting, & Protocol Forensics"
+```
+
+👉 **[View & verify all 17 certificate credentials on my live portfolio →](https://dynamo2k1.vercel.app/resume)**
+
+---
+
+## 📊 Competitive Standings & GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dynamo2k1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080e&title_color=00ff9d&text_color=94a3b8&icon_color=38bdf8" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dynamo2k1&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080e&title_color=00ff9d&text_color=94a3b8" height="165" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dynamo2k1&theme=tokyonight&hide_border=true&background=06080e&stroke=00ff9d&ring=00ff9d&fire=38bdf8&currStreakLabel=00ff9d" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📬 Connect & Collaborate
+
+<div align="center">
+
+<p align="center">
+  <a href="https://linkedin.com/in/rana-uzair-ahmad-82b8b6223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dynamo2k1.vercel.app"><img src="https://img.shields.io/badge/Interactive_Portfolio-00FF9D?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+  <a href="mailto:ranauzair370@gmail.com"><img src="https://img.shields.io/badge/Email_Me-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://fb.com/uzair.ge.56"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/ra.na_uzair_ahmad/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>"Security is not a product, but a continuous engineering discipline of adversarial empathy."</i> 🛡️
+</p>
+
+<sub>© Rana Uzair Ahmad (Dynamo2k1) · Open to Worldwide Remote Engagements (W-8BEN / B2B) & On-Site Relocation</sub>
+
+</div>
